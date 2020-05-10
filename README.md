@@ -1,6 +1,6 @@
-# OpenAI Gym's Taxi-v2 Task
+# OpenAI Gym's Taxi-v3 Task
 ## Q-Learning solution for Taxi Problem from OpenAI Gym
-We are using OpenAI Gym's Taxi-v2 environment to design an algorithm to teach a taxi agent to navigate a small gridworld. <br>
+We are using OpenAI Gym's Taxi-v3 environment to design an algorithm to teach a taxi agent to navigate a small gridworld. <br>
 The goal is to adapt all that you've learned in the previous lessons to solve a new environment!
 <img src=https://video.udacity-data.com/topher/2018/April/5ad260ed_screen-shot-2018-04-14-at-3.13.15-pm/screen-shot-2018-04-14-at-3.13.15-pm.png width="400" height="400">
 <br>
